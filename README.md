@@ -1,5 +1,5 @@
 # HH_Global_Job_Quotation
-inputs to run the endpoint using the provided example in the document provided
+Inputs to run the endpoint using the provided example in the document provided
 
 {
   "isExtraMargin": true,
